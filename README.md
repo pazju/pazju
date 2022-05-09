@@ -7,8 +7,8 @@
 - 🔭 I’m currently a student of Electronic Engineering at Pontificia Universidad Javeriana
 - 🌱 I’m currently learning Machine Learning, AI, and IoT
 - 👯 I’m looking to collaborate on ... Engineering Fun Projects
-🤔 I’m looking for help with ...
-💬 Ask me about ...
+- 🤔 I’m looking for help with ... ML, Python
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/juankpazs/)
 - 😄 Pronouns: Paz, Inge, JC, JuanK
 - ⚡ Fun fact: I love brownies 
